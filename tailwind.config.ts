@@ -9,9 +9,6 @@ const config: Config = {
 	],
 	theme: {
 		extend: {
-			fontSize: {
-				base: '15px',
-			},
 			borderRadius: {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
